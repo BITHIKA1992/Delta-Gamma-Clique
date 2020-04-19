@@ -7,13 +7,14 @@
 
 Please cite the following papers.
 
-> @article{banerjee2020first,
+```
+ @article{banerjee2020first,
   title={First Stretch then Shrink and Bulk: A Two Phase Approach for Enumeration of Maximal $($\backslash$Delta,$\backslash$gamma) $$\backslash$mbox $\{$-$\}$ Cliques of a Temporal Network},
   author={Banerjee, Suman and Pal, Bithika},
   journal={arXiv preprint arXiv:2004.05935},
   year={2020}
 }
-
+```
 @inproceedings{banerjee2019enumeration,
   title={On the Enumeration of Maximal ($\Delta$, $\gamma$)-Cliques of a Temporal Network},
   author={Banerjee, Suman and Pal, Bithika},
